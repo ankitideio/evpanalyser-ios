@@ -1,0 +1,6 @@
+framework module Pods_Evp_AnalyzerTests {
+  umbrella header "Pods-Evp AnalyzerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
